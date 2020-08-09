@@ -1,4 +1,4 @@
-# Trackmania server docker
+# Trackmania server docker for amazon linux 2
 
 Based on https://hub.docker.com/r/lduriez/tmserver
 
